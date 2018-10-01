@@ -1,0 +1,12 @@
+﻿  pch.cpp
+  실습15.cpp
+d:\report\computergraphics\opengl좌표계변환\실습15\실습15.cpp(1): warning C4005: '_CRT_SECURE_NO_WARNINGS': 매크로 재정의
+  d:\report\computergraphics\opengl좌표계변환\실습15\실습15.cpp: note: '_CRT_SECURE_NO_WARNINGS'의 이전 정의를 참조하십시오.
+d:\report\computergraphics\opengl좌표계변환\실습15\실습15.cpp(1): warning C4603: '_CRT_SECURE_NO_WARNINGS': 매크로가 정의되지 않았거나 미리 컴파일된 헤더 사용 후와 정의가 다릅니다.
+  d:\report\computergraphics\opengl좌표계변환\실습15\실습15.cpp(1): note: 여기에서 정의하지 않고 미리 컴파일된 헤더에 매크로 추가
+  d:\report\computergraphics\opengl좌표계변환\실습15\실습15.cpp(3): note: 미리 컴파일된 헤더 사용
+d:\report\computergraphics\opengl좌표계변환\실습15\실습15.cpp(34): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+d:\report\computergraphics\opengl좌표계변환\실습15\실습15.cpp(70): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\report\computergraphics\opengl좌표계변환\실습15\실습15.cpp(82): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+d:\report\computergraphics\opengl좌표계변환\실습15\실습15.cpp(84): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+  실습15.vcxproj -> D:\Report\ComputerGraphics\OpenGL좌표계변환\Debug\실습15.exe
