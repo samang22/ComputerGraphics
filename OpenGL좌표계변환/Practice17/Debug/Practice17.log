@@ -1,0 +1,23 @@
+﻿  CManager.cpp
+d:\report\computergraphics\computergraphics\opengl좌표계변환\practice17\cmanager.cpp(8): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\report\computergraphics\computergraphics\opengl좌표계변환\practice17\cmanager.cpp(24): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\report\computergraphics\computergraphics\opengl좌표계변환\practice17\cmanager.cpp(25): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\report\computergraphics\computergraphics\opengl좌표계변환\practice17\cmanager.cpp(26): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\report\computergraphics\computergraphics\opengl좌표계변환\practice17\cmanager.cpp(27): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\report\computergraphics\computergraphics\opengl좌표계변환\practice17\cmanager.cpp(29): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\report\computergraphics\computergraphics\opengl좌표계변환\practice17\cmanager.cpp(30): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\report\computergraphics\computergraphics\opengl좌표계변환\practice17\cmanager.cpp(31): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\report\computergraphics\computergraphics\opengl좌표계변환\practice17\cmanager.cpp(32): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\report\computergraphics\computergraphics\opengl좌표계변환\practice17\cmanager.cpp(34): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\report\computergraphics\computergraphics\opengl좌표계변환\practice17\cmanager.cpp(35): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\report\computergraphics\computergraphics\opengl좌표계변환\practice17\cmanager.cpp(36): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\report\computergraphics\computergraphics\opengl좌표계변환\practice17\cmanager.cpp(37): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\report\computergraphics\computergraphics\opengl좌표계변환\practice17\cmanager.cpp(74): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\report\computergraphics\computergraphics\opengl좌표계변환\practice17\cmanager.cpp(94): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\report\computergraphics\computergraphics\opengl좌표계변환\practice17\cmanager.cpp(117): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\report\computergraphics\computergraphics\opengl좌표계변환\practice17\cmanager.cpp(140): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\report\computergraphics\computergraphics\opengl좌표계변환\practice17\cmanager.cpp(164): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\report\computergraphics\computergraphics\opengl좌표계변환\practice17\cmanager.cpp(187): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Practice17.cpp
+  코드를 생성하고 있습니다...
+  Practice17.vcxproj -> D:\Report\ComputerGraphics\ComputerGraphics\OpenGL좌표계변환\Debug\Practice17.exe
