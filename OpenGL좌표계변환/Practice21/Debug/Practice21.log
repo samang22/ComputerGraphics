@@ -1,0 +1,6 @@
+﻿  Manager.cpp
+c:\users\e219-05\downloads\opengl좌표계변환\practice21\manager.cpp(76): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\e219-05\downloads\opengl좌표계변환\practice21\manager.cpp(87): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\e219-05\downloads\opengl좌표계변환\practice21\manager.cpp(98): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\e219-05\downloads\opengl좌표계변환\practice21\manager.cpp(109): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+  Practice21.vcxproj -> C:\Users\E219-05\Downloads\OpenGL좌표계변환\Debug\Practice21.exe

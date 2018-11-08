@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  CManager.cpp
+c:\users\e219-05\downloads\임시\opengl좌표계변환\practice19\cmanager.cpp(135): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+  Practice19.cpp
+  코드를 생성하고 있습니다...
+  Practice19.vcxproj -> C:\Users\E219-05\Downloads\임시\OpenGL좌표계변환\Debug\Practice19.exe

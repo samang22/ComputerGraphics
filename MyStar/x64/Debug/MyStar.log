@@ -1,0 +1,25 @@
+﻿  pch.cpp
+  CManager.cpp
+d:\report\computergraphics\computergraphics\mystar\cmanager.cpp(366): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\report\computergraphics\computergraphics\mystar\cmanager.cpp(371): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\report\computergraphics\computergraphics\mystar\cmanager.cpp(376): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\report\computergraphics\computergraphics\mystar\cmanager.cpp(386): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\report\computergraphics\computergraphics\mystar\cmanager.cpp(387): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\report\computergraphics\computergraphics\mystar\cmanager.cpp(388): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\report\computergraphics\computergraphics\mystar\cmanager.cpp(506): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\report\computergraphics\computergraphics\mystar\cmanager.cpp(507): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\report\computergraphics\computergraphics\mystar\cmanager.cpp(551): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\report\computergraphics\computergraphics\mystar\cmanager.cpp(581): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\report\computergraphics\computergraphics\mystar\cmanager.cpp(599): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\report\computergraphics\computergraphics\mystar\cmanager.cpp(619): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\report\computergraphics\computergraphics\mystar\cmanager.cpp(636): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\report\computergraphics\computergraphics\mystar\cmanager.cpp(654): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\report\computergraphics\computergraphics\mystar\cmanager.cpp(666): warning C4838: 'int'에서 'float'(으)로의 변환에는 축소 변환이 필요합니다.
+d:\report\computergraphics\computergraphics\mystar\cmanager.cpp(658): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\report\computergraphics\computergraphics\mystar\cmanager.cpp(659): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\report\computergraphics\computergraphics\mystar\cmanager.cpp(793): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\report\computergraphics\computergraphics\mystar\cmanager.cpp(896): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  MyStar.cpp
+  코드를 생성하고 있습니다...
+d:\report\computergraphics\computergraphics\mystar\cmanager.cpp(892): warning C4715: 'CManager::CheckTriClicked': 모든 제어 경로에서 값을 반환하지는 않습니다.
+LINK : fatal error LNK1104: 'freeglut.lib' 파일을 열 수 없습니다.

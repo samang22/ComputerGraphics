@@ -1,9 +1,10 @@
-﻿  OpenGL좌표계변환.cpp
-d:\report\computergraphics\opengl좌표계변환\opengl좌표계변환\opengl좌표계변환.cpp(49): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
-d:\report\computergraphics\opengl좌표계변환\opengl좌표계변환\opengl좌표계변환.cpp(255): warning C4305: '+=': 'double'에서 'GLfloat'(으)로 잘립니다.
-d:\report\computergraphics\opengl좌표계변환\opengl좌표계변환\opengl좌표계변환.cpp(268): warning C4305: '+=': 'double'에서 'GLfloat'(으)로 잘립니다.
-d:\report\computergraphics\opengl좌표계변환\opengl좌표계변환\opengl좌표계변환.cpp(291): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
-d:\report\computergraphics\opengl좌표계변환\opengl좌표계변환\opengl좌표계변환.cpp(305): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
-d:\report\computergraphics\opengl좌표계변환\opengl좌표계변환\opengl좌표계변환.cpp(315): warning C4305: '-=': 'double'에서 'float'(으)로 잘립니다.
-d:\report\computergraphics\opengl좌표계변환\opengl좌표계변환\opengl좌표계변환.cpp(403): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
-  OpenGL좌표계변환.vcxproj -> D:\Report\ComputerGraphics\OpenGL좌표계변환\Debug\테스트.exe
+﻿  pch.cpp
+  OpenGL좌표계변환.cpp
+d:\report\computergraphics\computergraphics\opengl좌표계변환\opengl좌표계변환\opengl좌표계변환.cpp(49): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+d:\report\computergraphics\computergraphics\opengl좌표계변환\opengl좌표계변환\opengl좌표계변환.cpp(255): warning C4305: '+=': 'double'에서 'GLfloat'(으)로 잘립니다.
+d:\report\computergraphics\computergraphics\opengl좌표계변환\opengl좌표계변환\opengl좌표계변환.cpp(268): warning C4305: '+=': 'double'에서 'GLfloat'(으)로 잘립니다.
+d:\report\computergraphics\computergraphics\opengl좌표계변환\opengl좌표계변환\opengl좌표계변환.cpp(291): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+d:\report\computergraphics\computergraphics\opengl좌표계변환\opengl좌표계변환\opengl좌표계변환.cpp(305): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+d:\report\computergraphics\computergraphics\opengl좌표계변환\opengl좌표계변환\opengl좌표계변환.cpp(315): warning C4305: '-=': 'double'에서 'float'(으)로 잘립니다.
+d:\report\computergraphics\computergraphics\opengl좌표계변환\opengl좌표계변환\opengl좌표계변환.cpp(403): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+  OpenGL좌표계변환.vcxproj -> D:\Report\ComputerGraphics\ComputerGraphics\OpenGL좌표계변환\Debug\테스트.exe
